@@ -1,0 +1,119 @@
+[
+ {
+  "po": "1FIVTLMO",
+  "order_date": "2026-10-26",
+  "status": "Confirmed",
+  "units_requested": 12,
+  "units_accepted": 12,
+  "value_aed": 360.41,
+  "window_end": "2026-10-29"
+ },
+ {
+  "po": "1SRZ763S",
+  "order_date": "2026-10-26",
+  "status": "Confirmed",
+  "units_requested": 12,
+  "units_accepted": 10,
+  "value_aed": 379.25,
+  "window_end": "2026-10-29"
+ },
+ {
+  "po": "331ZBCSD",
+  "order_date": "2026-10-26",
+  "status": "Confirmed",
+  "units_requested": 6,
+  "units_accepted": 6,
+  "value_aed": 413.0,
+  "window_end": "2026-10-29"
+ },
+ {
+  "po": "6WEGMTPH",
+  "order_date": "2026-10-19",
+  "status": "Confirmed",
+  "units_requested": 11,
+  "units_accepted": 11,
+  "value_aed": 303.29,
+  "window_end": "2026-10-22"
+ },
+ {
+  "po": "5UNHAY5Y",
+  "order_date": "2026-10-12",
+  "status": "Confirmed",
+  "units_requested": 69,
+  "units_accepted": 69,
+  "value_aed": 3080.83,
+  "window_end": "2026-10-15"
+ },
+ {
+  "po": "41BP8ASA",
+  "order_date": "2026-10-12",
+  "status": "Confirmed",
+  "units_requested": 22,
+  "units_accepted": 22,
+  "value_aed": 665.91,
+  "window_end": "2026-10-15"
+ },
+ {
+  "po": "5Z54196F",
+  "order_date": "2026-10-12",
+  "status": "Confirmed",
+  "units_requested": 58,
+  "units_accepted": 58,
+  "value_aed": 2981.47,
+  "window_end": "2026-10-15"
+ },
+ {
+  "po": "2USPCMSP",
+  "order_date": "2026-10-12",
+  "status": "Confirmed",
+  "units_requested": 2,
+  "units_accepted": 2,
+  "value_aed": 75.28,
+  "window_end": "2026-10-15"
+ },
+ {
+  "po": "494ON9UD",
+  "order_date": "2026-10-05",
+  "status": "Confirmed",
+  "units_requested": 21,
+  "units_accepted": 20,
+  "value_aed": 687.64,
+  "window_end": "2026-10-08"
+ },
+ {
+  "po": "7Z8X88DG",
+  "order_date": "2026-10-01",
+  "status": "Confirmed",
+  "units_requested": 3,
+  "units_accepted": 3,
+  "value_aed": 77.45,
+  "window_end": "2026-10-07"
+ },
+ {
+  "po": "5VGD3T1T",
+  "order_date": "2026-09-28",
+  "status": "Confirmed",
+  "units_requested": 8,
+  "units_accepted": 8,
+  "value_aed": 272.16,
+  "window_end": "2026-10-01"
+ },
+ {
+  "po": "61DBLRBL",
+  "order_date": "2026-09-28",
+  "status": "Confirmed",
+  "units_requested": 36,
+  "units_accepted": 36,
+  "value_aed": 1177.88,
+  "window_end": "2026-10-01"
+ },
+ {
+  "po": "3EKM5AVL",
+  "order_date": "2026-09-21",
+  "status": "Confirmed",
+  "units_requested": 43,
+  "units_accepted": 41,
+  "value_aed": 2614.13,
+  "window_end": "2026-09-24"
+ }
+]

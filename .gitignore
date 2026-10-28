@@ -1,0 +1,6 @@
+.env
+*.env
+.DS_Store
+inbox/
+*.xlsx
+*costs*
