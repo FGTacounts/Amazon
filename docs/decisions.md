@@ -17,3 +17,4 @@
 | 29 Oct 2026 | When the Claude in Chrome extension is offline, the run drives the owner's Chrome through the desktop Chrome control tools instead. |
 | 30 Oct 2026 | India connected (owner signed in to sellercentral.amazon.in). "Always check India and UAE": every evening run now covers India in full — sales, stock, account health, ads (report only; changes need the owner), listing sweep, competitors, dashboard India rows. |
 | 30 Oct 2026 | India account At Risk: late dispatch rate 11.11% vs 2% target (T-020). |
+| 30 Oct 2026 | India permissions = UAE: Claude runs India ads (≤ ₹5,200/day total, ≤ ₹9,000 on India sale days, new campaigns ≤ ₹780/day), fixes India listings and changes India prices under the same margin rules. Until India costs are given, India uses the UAE landed cost of the same product converted at ₹25.9 per AED (provisional). First job: the waiting India ad clean-up (T-007). |
