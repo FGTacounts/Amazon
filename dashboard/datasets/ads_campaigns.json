@@ -1,1 +1,156 @@
-[{"market": "AE", "campaign": "Socks (auto)", "currency": "AED", "window_days": 7, "spend": 84.03, "sales": null, "clicks": 94, "orders": 9, "status": "Running \u00b7 AED 40/day, not budget-capped"}, {"market": "AE", "campaign": "bottle cleanser (auto)", "currency": "AED", "window_days": 7, "spend": 12.57, "sales": null, "clicks": 6, "orders": 0, "status": "Running \u00b7 AED 15/day \u00b7 3rd week with 0 orders"}, {"market": "AE", "campaign": "Turtees | Socks | SP Exact Harvest | Oct26", "currency": "AED", "window_days": 7, "spend": 8.06, "sales": null, "clicks": 10, "orders": 0, "status": "Running \u00b7 review 30 Oct"}, {"market": "AE", "campaign": "Turtees | Socks | SP Phrase Discovery | Oct26", "currency": "AED", "window_days": 7, "spend": 3.79, "sales": null, "clicks": 5, "orders": 0, "status": "Running \u00b7 review 30 Oct"}, {"market": "AE", "campaign": "Turtees | Bottle Cleanser | SP Exact+Phrase | Oct26", "currency": "AED", "window_days": 7, "spend": 2.27, "sales": null, "clicks": 2, "orders": 0, "status": "Running \u00b7 review 30 Oct"}, {"market": "AE", "campaign": "bottle brush", "currency": "AED", "window_days": 7, "spend": 1.54, "sales": null, "clicks": 2, "orders": 0, "status": "Running"}, {"market": "AE", "campaign": "Turtees | Socks | SP ASIN Targeting | Oct26", "currency": "AED", "window_days": 7, "spend": 0.73, "sales": null, "clicks": 1, "orders": 0, "status": "Running \u00b7 review 30 Oct"}, {"market": "AE", "campaign": "Turtees | Bottle Drying Rack | SP Exact+Phrase | Oct26", "currency": "AED", "window_days": 7, "spend": 0.44, "sales": null, "clicks": 1, "orders": 0, "status": "Running \u00b7 review 30 Oct"}, {"market": "AE", "campaign": "Claude | Glitters | Funky 3D socks | 11.11 | 26", "currency": "AED", "window_days": 7, "spend": 0, "sales": null, "clicks": 0, "orders": 0, "status": "Scheduled 9\u201312 Nov \u00b7 AED 30/day"}, {"market": "IN", "campaign": "T10 Breast Pump \u2013 SP Product \u2013 Promom ASIN", "currency": "INR", "window_days": 7, "spend": 8182.87, "sales": null, "clicks": 96, "orders": 0, "status": "Running \u00b7 pause proposed (waiting for owner)"}, {"market": "IN", "campaign": "T20 Breast Pump \u2013 SP Keywords \u2013 TOS", "currency": "INR", "window_days": 7, "spend": 1216.4, "sales": null, "clicks": 45, "orders": 1, "status": "Running"}, {"market": "IN", "campaign": "Manual breast pump", "currency": "INR", "window_days": 7, "spend": 252.12, "sales": null, "clicks": 48, "orders": 2, "status": "Running"}, {"market": "IN", "campaign": "Breast pump (Sponsored Brands)", "currency": "INR", "window_days": 7, "spend": null, "sales": null, "clicks": null, "orders": null, "status": "Out of budget \u00b7 pause proposed (waiting for owner)"}]
+[
+ {
+  "market": "AE",
+  "campaign": "Socks (auto)",
+  "currency": "AED",
+  "window_days": 7,
+  "spend": 75.92,
+  "sales": null,
+  "clicks": 84,
+  "orders": 8,
+  "status": "Running · AED 40/day, not budget-capped"
+ },
+ {
+  "market": "AE",
+  "campaign": "bottle cleanser (auto)",
+  "currency": "AED",
+  "window_days": 7,
+  "spend": 13.48,
+  "sales": null,
+  "clicks": 6,
+  "orders": 0,
+  "status": "Running · AED 15/day · 4th week with 0 orders (agency campaign)"
+ },
+ {
+  "market": "AE",
+  "campaign": "Turtees | Socks | SP Exact Harvest | Oct26",
+  "currency": "AED",
+  "window_days": 7,
+  "spend": 8.06,
+  "sales": null,
+  "clicks": 10,
+  "orders": 1,
+  "status": "Running · AED 20/day"
+ },
+ {
+  "market": "AE",
+  "campaign": "Turtees | Socks | SP Phrase Discovery | Oct26",
+  "currency": "AED",
+  "window_days": 7,
+  "spend": 3.79,
+  "sales": null,
+  "clicks": 5,
+  "orders": 0,
+  "status": "Running · AED 15/day"
+ },
+ {
+  "market": "AE",
+  "campaign": "Turtees | Bottle Cleanser | SP Exact+Phrase | Oct26",
+  "currency": "AED",
+  "window_days": 7,
+  "spend": 2.27,
+  "sales": null,
+  "clicks": 2,
+  "orders": 0,
+  "status": "Running · AED 15/day"
+ },
+ {
+  "market": "AE",
+  "campaign": "bottle brush (auto)",
+  "currency": "AED",
+  "window_days": 7,
+  "spend": 1.54,
+  "sales": null,
+  "clicks": 2,
+  "orders": 0,
+  "status": "Running · AED 15/day"
+ },
+ {
+  "market": "AE",
+  "campaign": "Turtees | Socks | SP ASIN Targeting | Oct26",
+  "currency": "AED",
+  "window_days": 7,
+  "spend": 1.09,
+  "sales": null,
+  "clicks": 2,
+  "orders": 0,
+  "status": "Running · AED 10/day"
+ },
+ {
+  "market": "AE",
+  "campaign": "Turtees | Bottle Drying Rack | SP Exact+Phrase | Oct26",
+  "currency": "AED",
+  "window_days": 7,
+  "spend": 0.44,
+  "sales": null,
+  "clicks": 1,
+  "orders": 0,
+  "status": "Running · AED 10/day"
+ },
+ {
+  "market": "AE",
+  "campaign": "Claude | Glitters | Funky 3D socks | 11.11 | 26",
+  "currency": "AED",
+  "window_days": 7,
+  "spend": 0,
+  "sales": null,
+  "clicks": 0,
+  "orders": 0,
+  "status": "Scheduled 9–12 Nov · AED 30/day"
+ },
+ {
+  "market": "IN",
+  "campaign": "T10 Breast Pump - SP Product - Promom ASIN",
+  "currency": "INR",
+  "window_days": 7,
+  "spend": 8541.96,
+  "sales": null,
+  "clicks": 101,
+  "orders": 0,
+  "status": "Out of budget · ₹1,200/day · 0 orders (T-007)"
+ },
+ {
+  "market": "IN",
+  "campaign": "T20 Breast Pump - SP Keywords - TOS",
+  "currency": "INR",
+  "window_days": 7,
+  "spend": 1296.11,
+  "sales": null,
+  "clicks": 47,
+  "orders": 1,
+  "status": "Running · ₹1,200/day"
+ },
+ {
+  "market": "IN",
+  "campaign": "Manual breast pump (auto)",
+  "currency": "INR",
+  "window_days": 7,
+  "spend": 282.85,
+  "sales": null,
+  "clicks": 52,
+  "orders": 2,
+  "status": "Running · ₹50/day"
+ },
+ {
+  "market": "IN",
+  "campaign": "Breast Pump (auto)",
+  "currency": "INR",
+  "window_days": 7,
+  "spend": 46.99,
+  "sales": null,
+  "clicks": 6,
+  "orders": 0,
+  "status": "Running · ₹160/day"
+ },
+ {
+  "market": "IN",
+  "campaign": "Breast Pump Manual Keywords",
+  "currency": "INR",
+  "window_days": 7,
+  "spend": 15.38,
+  "sales": null,
+  "clicks": 2,
+  "orders": 0,
+  "status": "Running · ₹100/day"
+ }
+]

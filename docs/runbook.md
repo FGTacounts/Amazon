@@ -39,7 +39,15 @@ Cleanser packs showed AED 27,500–59,500 per litre because Unit Count was 2 mil
 ## Dashboards
 - Amazon dashboard datasets: run_log, run_actions, team_todos, uae_daily_sales, uae_sku_stock, vendor_daily_sales, vendor_pos, vendor_asins, competitors, **and** markets, skus, history, ads_markets, ads_campaigns, ads_actions (these drive the header date and the Sales/Stock/Ads tabs — until 28 Oct they were never refreshed and the page said "updated 6 days ago"). ads_waste is a fixed 90-day snapshot of 23 Oct.
 - Each file: upload as an asset, then update `datasets/<id>` `source.url` and `updated` in one batch.
-- Combined dashboard: copy markets, skus, ads_markets, ads_waste, ads_actions, history across when the source is newer.
+- Combined dashboard: no longer updated (owner, 29 Oct).
 
 ## When Chrome or the Mac drops
 Keep doing the cloud-side work, check every 2–3 minutes for up to 30 minutes, then finish every unfinished item. The report still gets saved (send it in chat first, write it to the noon folder when the Mac is back).
+
+## Browser fallback (29 Oct)
+If the Claude in Chrome extension isn't connected, use the desktop Chrome control tools (list_tabs, open_url, execute_javascript, switch_to_tab, close_tab). Kat inputs sit in shadow DOM: focus the inner input, select(), `document.execCommand('insertText', false, value)`, dispatch `change`, blur; click the inner button of the kat-button. Listing-editor pages ignore `location` changes — open a fresh tab. Virtualised grids (Business Reports, Campaign Manager) only render in the visible tab. Public amazon.ae pages can be read with fetch in Claude's built-in browser.
+
+## Known open issues (29 Oct)
+- PRO-1000-3-MFN (B0DHLW86GB) and PRO-1000-2 (B0DHLWTV57) still show the wrong unit price: Amazon's vendor content wins over the seller edit — needs the vendor manager (T-019).
+- TTS5061 merchant quantity was found reset from 10 to 0 on 29 Oct — check it every run.
+- PRO-1000-1 (B0DHLW6QBR): active, 10 listed, but no featured offer and "Currently unavailable".

@@ -12,3 +12,6 @@
 | 28 Oct 2026 | The AED 10 delivery charge is the account-wide Easy Ship setting; don't change it. |
 | 28 Oct 2026 | Coupons/deals for every sale event within a per-event budget cap — cap still pending from the owner. |
 | 28 Oct 2026 | "Always do these kinds of stuff": finish every item every run, always update the dashboard (all tabs) and save the report, retry for up to 30 min if Chrome or the Mac drops, verify every price/stock change on the live page. |
+| 29 Oct 2026 | Only the Amazon Sales & Ads dashboard is updated by the daily run; the combined "Daily Ecommerce report" dashboard copy is dropped. |
+| 29 Oct 2026 | T-017 (TTS721 repricer / sale-price check) and T-018 (Monster socks main image) marked done by the owner. TTS721: Amazon moved to AED 164.83; recheck our price is not below it. |
+| 29 Oct 2026 | When the Claude in Chrome extension is offline, the run drives the owner's Chrome through the desktop Chrome control tools instead. |

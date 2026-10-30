@@ -2,7 +2,7 @@
 
 Schedule: `CRON_TZ=Asia/Dubai 0 21 * * *` (21:00 Gulf time). Task id: `trig_0174o16VoRSKGbE2q3ukfaFs`. Copied 2026-10-28.
 
-This is the exact prompt the scheduled task sends each evening. Edit the task (not this file) to change behaviour; then update this copy.
+This is the prompt as of 28 Oct. The 29 Oct changes (combined dashboard dropped, browser fallback, updated stock levels and open items) are in `docs/decisions.md` and `docs/runbook.md`. The scheduled task holds the current text. Edit the task (not this file) to change behaviour; then update this copy.
 
 ---
 
