@@ -15,3 +15,5 @@
 | 29 Oct 2026 | Only the Amazon Sales & Ads dashboard is updated by the daily run; the combined "Daily Ecommerce report" dashboard copy is dropped. |
 | 29 Oct 2026 | T-017 (TTS721 repricer / sale-price check) and T-018 (Monster socks main image) marked done by the owner. TTS721: Amazon moved to AED 164.83; recheck our price is not below it. |
 | 29 Oct 2026 | When the Claude in Chrome extension is offline, the run drives the owner's Chrome through the desktop Chrome control tools instead. |
+| 30 Oct 2026 | India connected (owner signed in to sellercentral.amazon.in). "Always check India and UAE": every evening run now covers India in full — sales, stock, account health, ads (report only; changes need the owner), listing sweep, competitors, dashboard India rows. |
+| 30 Oct 2026 | India account At Risk: late dispatch rate 11.11% vs 2% target (T-020). |
